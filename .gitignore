@@ -1,0 +1,41 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+Library/
+UnityGenerated/
+Assets/AssetStoreTools*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+.vs/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.lock
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# =============== #
+# Unity Tile Maps #
+# =============== #
+!Library/TileMapEditorSettings.asset
