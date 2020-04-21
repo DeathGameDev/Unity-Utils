@@ -39,3 +39,4 @@ Thumbs.db
 # Unity Tile Maps #
 # =============== #
 !Library/TileMapEditorSettings.asset
+*.meta
